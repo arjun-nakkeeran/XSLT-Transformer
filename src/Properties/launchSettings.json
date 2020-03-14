@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XSL Transformer": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\market-based-product-feed.xsl \"..\\esales-products-dev.xml\""
+    }
+  }
+}
